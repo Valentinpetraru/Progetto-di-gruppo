@@ -3,6 +3,7 @@
 --blue: rgb(41, 65, 171);
 --logow: 132px;
 --logoh: 40px;
+--bluepremium:rgb(29, 117, 222);
 }
 
 @font-face {
@@ -24,3 +25,4 @@
     font-family: spotifyblack;
     src: url(../ASSETS/FONT/Gotham-Font/Gotham-Black.otf);
 }
+ 
